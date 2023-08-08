@@ -6,9 +6,13 @@ const App = () => {
   return (
     <div>
       <HeroesList />
-      <VillainsList />
+      <div>
+        <VillainsList />
+      </div>
+
     </div>
-    
+
+
   );
 
 };
